@@ -1,0 +1,1 @@
+mylist = ["Anakin, cut his son's hand off", "Luke, yelled at daddy", "Leia, kissed her brother", "Obi-Wan, died", "C3-P0, cursed", "R2-D2, beeped and booped violently", "Chewbacca, growled", "Han, shot first",
